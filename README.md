@@ -2,6 +2,11 @@
 
 REST API Server using nodejs, mongodb, mongoose and express
 
+## Prerequisites
+
+* Install nodejs
+* Install mongodb 
+
 ## How to run
 
 * Clone the project
